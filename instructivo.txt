@@ -1,0 +1,15 @@
+Bienvenidos al conversor de datos estructurales de Gabo.
+El conversor de datos estructurales cuenta con tres opciones para convertir su dato estructural. 
+Son las siguientes:
+1) Su dato se encuentra en notacion Azimuthal. 
+El conversor le pedira que ingrese el valor del rumbo de su dato estructural. 
+Posteriormente ingresara el dato de la inclinacion, este dato se compone de un angulo y el cuadrante al cual se "inclina",
+ por lo que ingresara el valor del angulo y el cuadrante separados por espacio. 
+El dato que le devolvera tendra la notacion en terminos del rumbo, echado y cuadrante.
+2) Su dato se encuentra en notacion de Pinula Derecha.
+El conversor le pedira que ingrese el dato del rumbo de su dato estructural.
+Ademas seleccionara del menu el numero que indique el cuadrante del rumbo.
+Una vez hecho esto, ingresara el rumbo, tecleando el cuadrante y el angulo del rumbo separados por espacio.
+Posteriormente se pide ingrese el dato de la inclinacion.
+El dato que le devolvera tendra la notacion Azimuthal.
+
